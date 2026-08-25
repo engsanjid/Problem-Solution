@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-7-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_day-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-8--25--2026-green?style=for-the-badge)
 
@@ -19,20 +19,20 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **3** |
-| 🟡 Medium | **2** |
+| 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ### 🟠 LeetCode
 
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **2** |
-| 🟡 Medium | **1** |
+| 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
-| **Total** | **4** |
+| **Total** | **5** |
 
-_Languages: JavaScript (2) · Bash (1) · SQL (1)_
+_Languages: JavaScript (2) · SQL (2) · Bash (1)_
 
 ### 🧩 HackerRank
 
@@ -51,7 +51,7 @@ _Languages: Bash (2)_
 |:---:|:---:|
 | Bash | **3** |
 | JavaScript | **2** |
-| SQL | **1** |
+| SQL | **2** |
 
 ## 📂 Repository Structure
 
@@ -59,8 +59,8 @@ _Languages: Bash (2)_
 📦 coding-solutions/
 ├── LeetCode/
 │   ├── JavaScript/
-│   ├── Bash/
-│   └── SQL/
+│   ├── SQL/
+│   └── Bash/
 └── HackerRank/
     └── Bash/
 ```
