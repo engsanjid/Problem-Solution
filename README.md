@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-15-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-16-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-8--26--2026-green?style=for-the-badge)
 
@@ -18,21 +18,21 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **11** |
+| 🟢 Easy | **12** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
-| **Total** | **15** |
+| **Total** | **16** |
 
 ### 🧩 HackerRank
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **8** |
+| 🟢 Easy | **9** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **9** |
+| **Total** | **10** |
 
-_Languages: Bash (7) · SQL (2)_
+_Languages: Bash (8) · SQL (2)_
 
 ### 🟠 LeetCode
 
@@ -49,7 +49,7 @@ _Languages: JavaScript (3) · SQL (2) · Bash (1)_
 
 | Language | Solutions |
 |:---:|:---:|
-| Bash | **8** |
+| Bash | **9** |
 | SQL | **4** |
 | JavaScript | **3** |
 
